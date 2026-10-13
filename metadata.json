@@ -1,0 +1,8 @@
+{
+  "name": "POS System v0.0.1B",
+  "description": "A feature-rich Point of Sale (POS) app for Myanmar retail shops with Kyat currency, KPay/WavePay support, inventory tracking, receipts, and sales reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
